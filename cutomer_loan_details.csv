@@ -1,0 +1,115 @@
+applicantId,state,gender,age,race,marital_status,occupation,credit_score,income,debts,loan_type,loan_decision_type
+004NZMX60E,CA,Male,36,No co-applicant,Married,NYPD,710,9371.333333,2000,Personal,Approved
+004NZMX60E,CA,Male,36,No co-applicant,Married,NYPD,720,9371.333333,3013.82,Auto,Approved
+017STAOLDV,OH,Female,34,White,Married,IT,720,9010.25,1000,Credit,Approved
+017WEFEN7S,OH,Male,48,No co-applicant,Married,Accout,670,6538,2099,Home,Approved
+01FSKXYCRD,FL,Male,32,White,Single,Business,720,8679.416667,1000,Home,Approved
+024LVUJ6HV,NY,Male,44,Not applicable,Single,Accout,540,6238,2500,Personal,Denied
+03FK8JYSKI,OH,Female,60,Asian,Single,Manager,840,15010.25,5749.77,Personal,Approved
+03FK8JYSKI,OH,Female,60,Asian,Single,Manager,824,15010.25,4938.71,Auto,Approved
+03FK8JYSKI,OH,Female,60,Asian,Single,Manager,824,15010.25,4500,Credit,Approved
+04WEQWB28Y,PA,Male,48,American Indian or Alaska Native,Married,Accout,490,6571,2000,Personal,Denied
+05B3RZ1CD7,NY,Male,33,No co-applicant,Divorced,NYPD,720,8868.583333,1000,Home,Approved
+05B3RZ1CD7,NY,Male,33,No co-applicant,Divorced,NYPD,720,8868.583333,3607.45,Auto,Denied
+05II0K909R,MA,Male,43,No co-applicant,Divorced,Manager,700,12210,2000,Personal,Approved
+05QM3K8BUK,TX,Male,19,American Indian or Alaska Native,Single,IT,775,4206.5,1757.85,Personal,Denied
+05QM3K8BUK,TX,Male,19,American Indian or Alaska Native,Single,IT,770,4206.5,800,Auto,Approved
+06LEM97BJB,DC,Male,28,Not applicable,Married,NYPD,806,7701.916667,1000,Auto,Approved
+06LEM97BJB,DC,Male,28,Not applicable,Married,NYPD,803,7701.916667,1838.12,Credit,Approved
+06O9BXW47C,AL,Female,36,Native Hawaiian or Other Pacific Islander,Married,NYPD,551,9382.75,3500,Personal,Denied
+07KO5W2U4N,PA,Female,44,White,Single,Manager,695,12377.5,4857.94,Auto,Approved
+07KO5W2U4N,PA,Female,44,White,Single,Manager,690,12377.5,2000,Home,Approved
+08GNNP7EIC,OK,Male,31,Asian,Divorced,NYPD,520,8534.416667,3500,Auto,Denied
+08P0VLYZMP,VA,Male,26,American Indian or Alaska Native,Married,Accout,580,4706.5,1000,Home,Withdrawn
+09E8S4SO9Y,MD,Male,63,White,Single,Accout,740,7240.333333,2300,Personal,Approved
+09HR2Q5Y2A,NY,Male,20,No co-applicant,Divorced,Business,560,5034.333333,800,Auto,Denied
+09VZNXODJ0,OH,Male,45,No co-applicant,Single,IT,710,11269.16667,5234.95,Personal,Denied
+09VZNXODJ0,OH,Male,45,No co-applicant,Single,IT,700,11269.16667,3000,Home,Approved
+0A9A7JTA1S,RI,Male,26,No co-applicant,Married,Accout,704,4732.416667,800,Auto,Approved
+0AGQ8BM596,VA,Male,60,American Indian or Alaska Native,Married,IT,750,14618.58333,4000,Auto,Approved
+0AGQ8BM596,VA,Male,60,American Indian or Alaska Native,Married,IT,755,14618.58333,4912.66,Personal,Approved
+0AN7VXQUSA,VA,Female,38,Not applicable,Single,NYPD,713,9728.333333,1249,Home,Approved
+0AQFWDBLDX,PA,Male,39,Asian,Married,Manager,700,11370.83333,3000,Auto,Approved
+0AT5ZQ66WJ,OR,Male,65,Not applicable,Divorced,IT,740,15510.25,6000,Personal,Approved
+0AT5ZQ66WJ,OR,Male,65,Not applicable,Divorced,IT,745,15510.25,7535.5,Credit,Denied
+0B4K5PCIU7,TN,Male,32,Asian,Single,Business,690,8686.25,2000,Auto,Approved
+0B4K5PCIU7,TN,Male,32,Asian,Single,Business,700,8686.25,3521,Home,Withdrawn
+0BDHWFH19F,MI,Male,34,Not applicable,Single,Business,550,9062.166667,4000,Auto,Denied
+0BTGB33C3H,MI,Female,35,No co-applicant,Divorced,Business,713,9201.916667,2000,Auto,Approved
+0CRHL3M30T,GA,Male,19,No co-applicant,Single,IT,779,4269.666667,1100,Auto,Approved
+0CRHL3M30T,GA,Male,19,No co-applicant,Single,IT,780,4269.666667,1708.44,Personal,Denied
+0CX2XBSEI3,GA,Male,37,Asian,Single,Manager,722,10732.91667,4500,Auto,Denied
+0DRBBDGQJK,VA,Female,36,Native Hawaiian or Other Pacific Islander,Divorced,Manager,689,10385.25,1500,Credit,Approved
+0F49D53KPL,NY,Male,37,Not applicable,Married,NYPD,690,9543.333333,2500,Personal,Approved
+0G87FHMRRE,MI,Female,51,Not applicable,Divorced,Accout,764,6811.833333,1400,Auto,Approved
+0G96GTD9LM,MT,Male,28,White,Married,Accout,737,4885.25,600,Credit,Approved
+0GFO5WQJZP,CO,Female,20,American Indian or Alaska Native,Married,Business,692,5035.083333,1100,Credit,Approved
+0GFYCGVZS1,GA,Male,21,Asian,Single,NYPD,705,5346.083333,1500,Personal,Withdrawn
+0GOFM7P5XZ,NM,Female,25,Asian,Married,NYPD,743,6704.416667,1700,Auto,Approved
+0GTQ7M3NJA,UT,Male,27,Black or African American,Married,Business,560,7343.583333,1300,Home,Denied
+0GU7T5FF23,NM,Male,44,Black or African American,Married,Accout,700,6210.25,1000,Home,Approved
+0H8I3ROWLC,IA,Male,60,American Indian or Alaska Native,Divorced,IT,570,14621.91667,5000,Credit,Denied
+0HBUMFTJZA,AL,Male,38,No co-applicant,Divorced,IT,550,9732.083333,2500,Home,Denied
+0HQM3W1DSY,MA,Male,58,American Indian or Alaska Native,Married,Accout,580,7046.833333,1800,Credit,Approved
+0K2ST3CRWU,SC,Male,54,White,Single,Accout,770,6869.333333,1500,Credit,Approved
+0K4EKP528G,MD,Male,40,White,Married,Manager,720,11737.5,5021.1,Auto,Denied
+0K4EKP528G,MD,Male,40,White,Married,Manager,720,11737.5,3500,Personal,Approved
+0M0CO8RQ2L,KY,Male,56,White,Divorced,Accout,710,6955.166667,3000,Auto,Denied
+0M2KI1LFAV,NV,Female,23,White,Single,IT,780,6037.75,800,Personal,Approved
+0M2KI1LFAV,NV,Female,23,White,Single,IT,780,6037.75,1813.82,Credit,Approved
+0M7GC1AF85,MO,Male,37,Asian,Divorced,IT,690,9563,1500,Personal,Approved
+0NCA5KWYAA,OH,Male,22,American Indian or Alaska Native,Single,Business,690,5701.916667,1179.58,Auto,Approved
+0NCA5KWYAA,OH,Male,22,American Indian or Alaska Native,Single,Business,680,5701.916667,600,Credit,Approved
+0O4RS7BSQD,VA,Male,19,No co-applicant,Married,NYPD,623,4271.666667,1000,Auto,Approved
+0OY52B3P0C,FL,Male,59,American Indian or Alaska Native,Divorced,Manager,800,14871.33333,4500,Personal,Approved
+0OY52B3P0C,FL,Male,59,American Indian or Alaska Native,Divorced,Manager,810,14871.33333,5338.12,Credit,Approved
+0PHJ9Q7W6M,IN,Male,37,Native Hawaiian or Other Pacific Islander,Divorced,Accout,767,5602.583333,2956,Personal,Denied
+0PMT12MM1Y,TX,Male,49,American Indian or Alaska Native,Single,Accout,710,6651.916667,3500,Home,Withdrawn
+0Q0I6UZNDB,IL,Male,38,American Indian or Alaska Native,Divorced,NYPD,743,9704.166667,2000,Home,Approved
+0QEPZ19IAR,OK,Male,19,No co-applicant,Single,IT,668,4398.5,1500,Personal,Withdrawn
+0QLDF9NLE7,NJ,Male,37,Not applicable,Single,IT,570,9543.583333,4500,Auto,Denied
+0QSRPZOPG7,MI,Male,28,Not applicable,Single,NYPD,605,7676.916667,1300,Home,Withdrawn
+0R56J83EX6,IL,Male,32,White,Divorced,NYPD,650,8731.666667,3500,Auto,Denied
+0RW59JLVR4,TX,Male,27,White,Married,Accout,690,4769.25,2100,Auto,Denied
+0SPEEALBHU,AL,Male,26,American Indian or Alaska Native,Divorced,NYPD,550,7051.666667,1800,Home,Denied
+0T9V228F6Z,IL,Female,43,Not applicable,Divorced,Manager,550,12210.25,4200,Auto,Denied
+0TGK6ISRCW,SC,Female,20,Black or African American,Married,NYPD,782,5010.25,800,Credit,Approved
+0TOYTGHGH1,AR,Male,29,Not applicable,Married,NYPD,650,8037.75,900,Auto,Approved
+0TOYTGHGH1,AR,Male,29,Not applicable,Married,NYPD,660,8037.75,1738.12,Personal,Approved
+0TUOIRB8T1,PA,Male,70,Asian,Divorced,Manager,810,16758.33333,6122.26,Credit,Approved
+0TUOIRB8T1,PA,Male,70,Asian,Divorced,Manager,800,16758.33333,4500,Auto,Approved
+0TUOIRB8T1,PA,Male,70,Asian,Divorced,Manager,805,16758.33333,5513.82,Personal,Approved
+0U0WN7OV1A,NY,Male,19,Not applicable,Married,IT,617,4593.583333,1300,Auto,Withdrawn
+0UKXYUG36R,CA,Male,54,Asian,Divorced,Manager,692,14037.66667,5000,Auto,Withdrawn
+0UP8NLREHN,MI,Male,36,American Indian or Alaska Native,Married,Manager,720,10408,4207.45,Personal,Denied
+0UP8NLREHN,MI,Male,36,American Indian or Alaska Native,Married,Manager,720,10408,1600,Home,Approved
+0USFDP749G,CA,Female,44,No co-applicant,Married,Business,730,11061.75,3000,Personal,Approved
+0VGXAYF1B0,PA,Male,26,Black or African American,Married,Business,740,7046.916667,2000,Personal,Approved
+0VNIYG5S9A,AK,Male,19,Black or African American,Single,Accout,824,4043.583333,500,Personal,Approved
+0WMFF9YY4N,MA,Female,49,American Indian or Alaska Native,Married,Manager,740,13230.16667,6197.31,Personal,Denied
+0WMFF9YY4N,MA,Female,49,American Indian or Alaska Native,Married,Manager,740,13230.16667,5000,Auto,Approved
+0X3XQ3A3XS,VA,Male,21,Black or African American,Divorced,NYPD,650,5343.583333,800,Home,Withdrawn
+0X5WU8CMF1,WI,Female,31,No co-applicant,Single,NYPD,791,8538,1200,Auto,Approved
+0X764U8V1I,OK,Male,38,American Indian or Alaska Native,Married,NYPD,700,9731.666667,1800,Home,Withdrawn
+0X7IR0GX8E,CO,Male,31,No co-applicant,Single,NYPD,690,8526,1000,Auto,Approved
+0X7IR0GX8E,CO,Male,31,No co-applicant,Single,NYPD,773,8526,1838.12,Personal,Approved
+0XVTVT6HRF,NM,Male,31,Black or African American,Married,IT,570,8571.833333,1300,Auto,Denied
+0YI3QTPD1H,SC,Male,30,White,Single,NYPD,719,8352.583333,1300,Personal,Approved
+0YMWVE9O2R,OR,Male,35,No co-applicant,Single,NYPD,590,9204.666667,1500,Personal,Approved
+0ZCPZKFUQV,WA,Male,28,American Indian or Alaska Native,Married,NYPD,644,7704.166667,1200,Home,Withdrawn
+0ZU0HE9ARJ,WA,Male,37,No co-applicant,Married,Accout,700,5623.5,2500,Auto,Denied
+129QS9RID7,OK,Male,38,American Indian or Alaska Native,Single,IT,700,9729.416667,3000,Home,Approved
+129QS9RID7,OK,Male,38,American Indian or Alaska Native,Single,IT,710,9729.416667,5234.95,Auto,Denied
+14MIG4FH0A,OR,Male,45,No co-applicant,Single,Business,560,11267.5,3500,Home,Denied
+1628PTBQ8R,CA,Female,33,Asian,Divorced,IT,690,8899.083333,3000,Personal,Approved
+163PPIF5X4,KS,Male,41,American Indian or Alaska Native,Married,IT,700,10321.83333,4500,Home,Denied
+16BI6C17EZ,KY,Female,42,No co-applicant,Married,IT,690,10563,1500,Auto,Approved
+16KXX7QN2L,CA,Male,61,American Indian or Alaska Native,Married,Manager,695,15220,4600,Credit,Approved
+171H2QZS0E,TX,Male,20,Asian,Married,Accout,698,4226.916667,2000,Auto,Denied
+17KOPZ9JMG,OH,Male,28,White,Single,Business,690,7704.666667,1000,Auto,Approved
+17KOPZ9JMG,OH,Male,28,White,Single,Business,695,7704.666667,1912.66,Home,Withdrawn
+17LD4K324O,AK,Male,58,White,Single,Manager,728,14701.91667,4000,Credit,Approved
+17LD4K324O,AK,Male,58,White,Single,Manager,452,14701.91667,5318.04,Personal,Approved
+17LD4K324O,AK,Male,58,White,Single,Manager,659,14701.91667,4304.22,Auto,Approved
+189Z9CY6VK,CA,Male,70,Not applicable,Married,IT,719,16676.91667,7754.86,Personal,Denied
+189Z9CY6VK,CA,Male,70,Not applicable,Married,IT,686,16676.91667,6000,Personal,Approved
